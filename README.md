@@ -1,2 +1,2 @@
-# HealthCare_website
-Health care is a website using Django framework. Here we can login and keep a track of our health . And also can contact ambulance in emergency . And many other features like doctor details etc.
+# Tour_Guide
+The Tour Guide is a java based website that helps the tourists in planning their tour of a completely anonymous place he wants to explore. This website plans the tour such that the user can save more time in exploring maximum places rather than wasting time in reaching his destinations.  It takes the information such as location, the list of places the user wants to visit, the start and end place of the tour to make the plan.
